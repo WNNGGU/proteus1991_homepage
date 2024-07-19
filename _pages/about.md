@@ -23,6 +23,8 @@ I am always looking for enthusiastic and self-motivated students to work togethe
 
 🔥 News
 ======
+* [2024/7] &nbsp; Six papers are accepted by ACM MM 2024
+* [2024/7] &nbsp; Three papers are accepted by ECCV 2024
 * [2024/4] &nbsp; One paper is accepted by IJCAI 2024
 * [2024/2] &nbsp; Two papers are accepted by CVPR 2024
 * [2023/7] &nbsp; Three papers are accepted by ACM MM 2023 <font color="red">(Two orals!)</font>
@@ -35,6 +37,57 @@ I am always looking for enthusiastic and self-motivated students to work togethe
 ======
 <sup>*</sup> Equal contribution, <sup><span>&#8224;</span></sup> Corresponding author
 
+<!-- 2024glare -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <!-- <div class="badge">ECCV 2024 (Spotlight)</div> -->
+      <img src='images/publications/2024glare.png' class="img-fluid" alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **[ECCV]** GLARE: Low Light Image Enhancement via Generative Latent Feature based Codebook Retrieval
+  - Han Zhou<sup>*</sup>, Wei Dong<sup>*</sup>, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Shuaicheng Liu, Xiongkuo Min, Guangtao Zhai, Jun Chen<sup><span>&#8224;</span></sup>
+  - <i>European Conference on Computer Vision (ECCV), </i>2024. 
+  - <a href="papers/2024glare.pdf">[Paper]</a>  <a href="https://github.com/LowLevelAI/GLARE">[Code]</a>
+  <!-- - [**[Paper]**](papers/2024glare.pdf) [**[Code]**](https://github.com/LowLevelAI/GLARE) -->
+  </div>
+</div>
+
+<!-- 2024lightendiffusion-->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <!-- <div class="badge">ECCV 2024 (Spotlight)</div> -->
+      <img src='images/publications/2024lightendiffusion.png' class="img-fluid" alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **[ECCV]** LightenDiffusion: Unsupervised Low-Light Image Enhancement with Latent-Retinex Diffusion Models
+  - Hai Jiang, Ao Luo, <b><u>Xiaohong Liu</u></b>, Songchen Han, Shuaicheng Liu<sup><span>&#8224;</span></sup>
+  - <i>European Conference on Computer Vision (ECCV), </i>2024. 
+  - <a href="papers/2024lightendiffusion.pdf">[Paper]</a>
+  <!-- - [**[Paper]**](papers/2024lightendiffusion.pdf) -->
+  </div>
+</div>
+
+<!-- 2024openended-->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <!-- <div class="badge">ECCV 2024 (Spotlight)</div> -->
+      <img src='images/publications/2024openended.png' class="img-fluid" alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **[ECCV]** Towards Open-ended Visual Quality Comparison
+  - Haoning Wu<sup>*</sup>, Hanwei Zhu<sup>*</sup>, Zicheng Zhang<sup>*</sup>, Erli Zhang, Chaofeng Chen, Liang Liao, Chunyi Li, Annan Wang, Wenxiu Sun, Qiong Yan, <b><u>Xiaohong Liu</u></b>, Guangtao Zhai, Shiqi Wang, Weisi Lin
+  - <i>European Conference on Computer Vision (ECCV), </i>2024. 
+  - <a href="papers/2024openended.pdf">[Paper]</a> <a href="https://huggingface.co/q-future/co-instruct">[Model]</a>
+  <!-- - [**[Paper]**](papers/2024openended.pdf) -->
+  </div>
+</div>
+
 <!-- 2024perception -->
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -45,7 +98,7 @@ I am always looking for enthusiastic and self-motivated students to work togethe
   </div>
   <div class='paper-box-text' markdown="1">
   **[CVPR]** Perception-Oriented Video Frame Interpolation via Asymmetric Blending
-  - Guangyang Wu, Xin Tao, Changlin Li, Wwenyi Wang, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Qingqing Zheng<sup><span>&#8224;</span></sup>
+  - Guangyang Wu, Xin Tao, Changlin Li, Wenyi Wang, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Qingqing Zheng<sup><span>&#8224;</span></sup>
   - <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), </i>2024. 
   - <a href="papers/2024perception.pdf">[Paper]</a> <a href="https://mulns.github.io/pervfi-page/">[Project Page]</a> <a href="https://github.com/mulns/PerVFI">[Code]</a>
   <!-- - [**[Paper]**](papers/2024perception.pdf) [**[Code]**](https://github.com/mulns/PerVFI) -->
