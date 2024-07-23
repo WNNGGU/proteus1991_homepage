@@ -18,13 +18,17 @@ layout: compress
 
     {{ content }}
 
-    <div class="page__footer">
+    {% if page.url == "/" %}
+    <div class="page__footer" style="overflow: hidden; height: 160px;">
       <footer>
         {% include footer/custom.html %}
-        {% include footer.html %}
+          
+            {% include footer.html %}
+          
+
       </footer>
     </div>
-
+    {% endif %}
     {% include scripts.html %}
 
   </body>

@@ -9,6 +9,90 @@ author_profile: true
 
 2024
 ---
+<!-- 2024glare -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>57. [ECCV] GLARE: Low Light Image Enhancement via Generative Latent Feature based Codebook Retrieval</strong> 
+      <font color="blue"><a href="../papers/2024glare.pdf">[Paper]</a></font><br/>
+      Han Zhou<sup>*</sup>, Wei Dong<sup>*</sup>, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Shuaicheng Liu, Xiongkuo Min, Guangtao Zhai, Jun Chen<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>European Conference on Computer Vision (ECCV), </i>2024. <br/>
+    </p>
+  </div>
+</div>
+
+<!-- 2024lightendiffusion -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>56. [ECCV] LightenDiffusion: Unsupervised Low-Light Image Enhancement with Latent-Retinex Diffusion Models</strong> 
+      <font color="blue"><a href="../papers/2024lightendiffusion.pdf">[Paper]</a></font><br/>
+      Hai Jiang, Ao Luo, <b><u>Xiaohong Liu</u></b>, Songchen Han, Shuaicheng Liu<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>European Conference on Computer Vision (ECCV), </i>2024. <br/>
+    </p>
+  </div>
+</div>
+
+<!-- 2024openended -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>55. [ECCV] Towards Open-ended Visual Quality Comparison</strong> 
+      <font color="blue"><a href="../papers/2024openended.pdf">[Paper]</a></font><br/>
+      Haoning Wu<sup>*</sup>, Hanwei Zhu<sup>*</sup>, Zicheng Zhang<sup>*</sup>, Erli Zhang, Chaofeng Chen, Liang Liao, Chunyi Li, Annan Wang, Wenxiu Sun, Qiong Yan, <b><u>Xiaohong Liu</u></b>, Guangtao Zhai, Shiqi Wang, Weisi Lin
+      <br/>
+      <i>European Conference on Computer Vision (ECCV), </i>2024. <br/>
+    </p>
+  </div>
+</div>
+
+<!-- 2024PAPS-OVQA -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>54. [ISCAS] PAPS-OVQA: Projection-Aware Patch Sampling for Omnidirectional Video Quality Assessment</strong> 
+      <font color="blue"><a href="../papers/2024PAPS-OVQA.pdf">[Paper]</a></font><br/>
+      Chunyi Li, Zicheng Zhang, Haoning Wu, Kaiwei Zhang, Lei Bai, <b><u>Xiaohong Liu</u></b>, Guangtao Zhai, Weisi Lin
+      <br/>
+      <i>International Symposium on Circuits and Systems (ISCAS), </i>2024. <br/>
+    </p>
+  </div>
+</div>
+
+<!-- 2024PrefIQA -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>53. [ISCAS] PrefIQA: Human Preference Learning for AI-generated Image Quality Assessment</strong> 
+      <font color="blue"><a href="../papers/2024PrefIQA.pdf">[Paper]</a></font><br/>
+      Hengjian Gao, Kaiwei Zhang, Wei Sun, Chunyi Li, Huiyu Duan, <b><u>Xiaohong Liu</u></b>, Xiongkuo Min, Guangtao Zhai<sup>*</sup>
+      <br/>
+      <i>International Symposium on Circuits and Systems (ISCAS), </i>2024. <br/>
+    </p>
+  </div>
+</div>
+
+<!-- 2024Calculating -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>52. [ISCAS] Calculating Color Differences of Images via Siamese Neural Network</strong> 
+      <font color="blue"><a href="../papers/2024Calculating.pdf">[Paper]</a></font><br/>
+      Yixuan Gao,  Xiongkuo Min<sup>*</sup>, <b><u>Xiaohong Liu</u></b>, Lei Sun, Yonglin Luo, Zuowei Cao, Guangtao Zhai<sup>*</sup>
+      <br/>
+      <i>International Symposium on Circuits and Systems (ISCAS), </i>2024. <br/>
+    </p>
+  </div>
+</div>
+
 <!-- 2024diffstega -->
 <div class="row">
   <div class="column middle">&nbsp;</div>
