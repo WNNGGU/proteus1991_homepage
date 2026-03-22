@@ -7,14 +7,706 @@ author_profile: true
 ---
 <sup>*</sup> Equal contribution, <sup><span>&#8224;</span></sup> Corresponding author
 
+2025
+---
+<!-- 2025 ACL -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>105. [ACL] Redundancy Principles for MLLMs Benchmarks</strong> 
+      <font color="blue"><a href="../papers/2025redundancy.pdf">[Paper]</a></font><br/>
+        Zicheng Zhang<sup>*</sup>, Xiangyu Zhao<sup>*</sup>, Xinyu Fang, Chunyi Li, <b><u>Xiaohong Liu</u></b>, Xiongkuo Min, Haodong Duan<sup><span>&#8224;</span></sup>, Kai Chen<sup><span>&#8224;</span></sup>, Guangtao Zhai<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>Annual Meeting of the Association for Computational Linguistics, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 ICCV -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>104. [ICCV] RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints</strong> 
+      <font color="blue"><a href="../papers/2025robofactory.pdf">[Paper]</a></font><br/>
+        Yiran Qin<sup>*</sup>, Li Kang<sup>*</sup>, Xiufeng Song<sup>*</sup>, Zhenfei Yin<sup><span>&#8224;</span></sup>, <b><u>Xiaohong Liu</u></b>, Xihui Liu, Jia Wang, Ruimao Zhang<sup><span>&#8224;</span></sup>, Lei Bai<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>IEEE International Conference on Computer Vision, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 ICCV -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>103. [ICCV] Information Density Principle for MLLM Benchmarks</strong> 
+      <font color="blue"><a href="../papers/2025infodensity.pdf">[Paper]</a></font><br/>
+        Chunyi Li<sup>*</sup>, Xiaozhe Li<sup>*</sup>, Zicheng Zhang, Yuan Tian, Ziheng Jia, <b><u>Xiaohong Liu</u></b>, Xiongkuo Min, Jia Wang, Haodong Duan<sup><span>&#8224;</span></sup>, Kai Chen, Guangtao Zhai<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>IEEE International Conference on Computer Vision, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 ICCV -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>102. [ICCV] Learning to See in the Extremely Dark</strong> 
+      <font color="blue"><a href="../papers/2025dark.pdf">[Paper]</a></font><br/>
+        Hai Jiang<sup>*</sup>, Binhao Guan<sup>*</sup>, Zhen Liu, <b><u>Xiaohong Liu</u></b>, Jian Yu, Zheng Liu, Songchen Han, Shuaicheng Liu<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>IEEE International Conference on Computer Vision, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 ICCV -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>101. [ICCV] Lumina-Image 2.0: A Unified and Efficient Image Generative Framework</strong> 
+      <font color="blue"><a href="../papers/2025lumina.pdf">[Paper]</a></font><br/>
+        Qi Qin<sup>*</sup>, Le Zhuo<sup>*</sup>, Yi Xin<sup>*</sup>, Ruoyi Du<sup>*</sup>, Zhen Li<sup>*</sup>, Bin Fu<sup>*</sup>, Yiting Lu<sup>*</sup>,  Jiakang Yuan, Xinyue Li, Dongyang Liu, Xiangyang Zhu, Manyuan Zhang, Will Beddow, Erwann Millon, Victor Perez, Wenhai Wang, Conghui He, Bo Zhang, <b><u>Xiaohong Liu</u></b>, Hongsheng Li, Yu Qiao, Chang Xu, Peng Gao<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>IEEE International Conference on Computer Vision, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 ICCV -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>100. [ICCV] TR-PTS: Task-Relevant Parameter and Token Selection for Efficient Tuning</strong> 
+      <font color="blue"><a href="../papers/2025TR-PTS.pdf">[Paper]</a></font><br/>
+        Siqi Luo<sup>*</sup>, Haoran Yang<sup>*</sup>, Yi Xin<sup>*</sup>, Mingyang Yi, Guangyang Wu, Guangtao Zhai, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>
+      <br/>
+      <i>IEEE International Conference on Computer Vision, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 ICCV -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>99. [ICCV] Who is a Better Talker: Subjective and Objective Quality Assessment for AI-Generated Talking Heads</strong> 
+      <font color="blue"><a href="../papers/2025bettertalker.pdf">[Paper]</a></font><br/>
+        Yingjie Zhou, Jiezhang Cao<sup><span>&#8224;</span></sup>, Zicheng Zhang, Farong Wen, Yanwei Jiang, Jun Jia, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Xiongkuo Min<sup><span>&#8224;</span></sup>, Guangtao Zhai<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>IEEE International Conference on Computer Vision, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 TIP -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>98. [TIP] Advancing Zero-Shot Digital Human Quality Assessment through Text-Prompted Evaluation</strong> 
+      <font color="blue"><a href="../papers/2025humaniqa.pdf">[Paper]</a></font><br/>
+        Zicheng Zhang, Wei Sun, Yingjie Zhou, Haoning Wu, Chunyi Li, Xiongkuo Min, <b><u>Xiaohong Liu</u></b>, Guangtao Zhai, Weisi Lin
+      <br/>
+      <i>IEEE Transactions on Image Processing, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 TCSVT -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>97. [TCSVT] Who is a Better Imitator: Subjective and Objective Quality Assessment of Animated Humans</strong> 
+      <font color="blue"><a href="../papers/2025imitator.pdf">[Paper]</a></font><br/>
+        Yingjie Zhou, Zicheng Zhang, Jun Jia, Yanwei Jiang, <b><u>Xiaohong Liu</u></b>, Xiongkuo Min, Guangtao Zhai
+      <br/>
+      <i>IEEE Transactions on Circuits and Systems for Video Technology, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 TMM -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>96. [TMM] Multi-Dimensional Quality Assessment for Text-to-3D Assets: Dataset and Model</strong> 
+      <font color="blue"><a href="../papers/2025MDIQA.pdf">[Paper]</a></font><br/>
+        Kang Fu<sup>*</sup>, Huiyu Duan<sup>*</sup>, Zicheng Zhang, <b><u>Xiaohong Liu</u></b>, Xiongkuo Min<sup><span>&#8224;</span></sup>, Jia Wang, Guangtao Zhai<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>IEEE Transactions on Multimedia, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 ICME -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>95. [ICME] CAP: An Advanced No-Reference Quality Assessment Method for AI-Generated 3D Meshes</strong> 
+      <font color="blue"><a href="../papers/2025CAP.pdf">[Paper]</a></font><br/>
+        Yingjie Zhou, Farong Wen, Zicheng Zhang, Yanwei Jiang, Jun Jia, <b><u>Xiaohong Liu</u></b>, Xiongkuo Min, Guangtao Zhai
+      <br/>
+      <i>IEEE International Conference on Multimedia and Expo, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 ICME -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>94. [ICME] VIP-PCQA: A Multi-Modal Framework for No-reference Point Cloud Quality Assessment</strong> 
+      <font color="blue"><a href="../papers/2025VIPPCQA.pdf">[Paper]</a></font><br/>
+        Kang Fu, Zicheng Zhang, Huiyu Duan<sup><span>&#8224;</span></sup>, <b><u>Xiaohong Liu</u></b>, Xiongkuo Min<sup><span>&#8224;</span></sup>, Jia Wang, Guangtao Zhai<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>IEEE International Conference on Multimedia and Expo, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 ICME -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>93. [ICME] SI23DCQA: Perceptual Quality Assessment of Single Image-to-3D Content</strong> 
+      <font color="blue"><a href="../papers/2025SI23DCQA.pdf">[Paper]</a></font><br/>
+        Kang Fu<sup>*</sup>, Huiyu Duan<sup>*</sup>, Zicheng Zhang, <b><u>Xiaohong Liu</u></b>, Xiongkuo Min<sup><span>&#8224;</span></sup>, Jia Wang, Guangtao Zhai<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>IEEE International Conference on Multimedia and Expo, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 ICME -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>92. [ICME] IllusionBench: A Large-scale and Comprehensive Benchmark for Visual Illusion Understanding in Vision-Language Models</strong> 
+      <font color="blue"><a href="../papers/2025IllusionBench.pdf">[Paper]</a></font><br/>
+         Yiming Zhang, Zicheng Zhang, Xinyi Wei, <b><u>Xiaohong Liu</u></b>, Guangtao Zhai,  Xiongkuo Min<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>IEEE International Conference on Multimedia and Expo, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 MICCAI -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>91. [MICCAI] MedIQA: A Scalable Foundation Model for Prompt-Driven Medical Image Quality Assessment</strong> 
+      <font color="blue"><a href="../papers/2025MedIQA.pdf">[Paper]</a></font><br/>
+        Siyi Xun, Yue Sun, Jingkun Chen, Zitong Yu, Tong Tong, <b><u>Xiaohong Liu</u></b>,  Mingxiang Wu, Tao Tan
+      <br/>
+      <i>Medical Image Computing and Computer-Assisted Intervention, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 IEEE J-STSP -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>90. [IEEE J-STSP]    R-Bench: Are your Large Multimodal Model Robust to Real-world Corruptions?</strong> 
+      <font color="blue"><a href="../papers/2025R_Bench.pdf">[Paper]</a></font><br/>
+      Chunyi Li, Jianbo Zhang, Zicheng Zhang, Haoning Wu, Yuan Tian, Wei Sun, Guo Lu, <b><u>Xiaohong Liu</u></b>, Xiongkuo Min, Weisi Lin,  Guangtao Zhai
+      <br/>
+      <i>IEEE Journal of Selected Topics in Signal Processing, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 CVPR -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>89. [CVPR Oral]    Q-Eval-100K: Evaluating Visual Quality and Alignment Level for Text-to-Vision Content</strong> 
+      <font color="blue"><a href="../papers/2025Q-Eval-100K.pdf">[Paper]</a></font><br/>
+      Zicheng Zhang, Tengchuan Kou, Shushi Wang, Chunyi Li, Wei Sun, Wei Wang, Xiaoyu Li, Zongyu Wang, Xuezhi Cao, Xiongkuo Min, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Guangtao Zhai
+      <br/>
+      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 CVPR -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>88. [CVPR Oral]    Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector</strong> 
+      <font color="blue"><a href="../papers/2025Deepfake.pdf">[Paper]</a></font><br/>
+      Xiao Guo, Xiufeng Song, Yue Zhang, <b><u>Xiaohong Liu</u></b>, Xiaoming Liu
+      <br/>
+      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 CVPR -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>87. [CVPR Spotlight]    Samba: A Unified Mamba-based Framework for General Salient Object Detection</strong> 
+      <font color="blue"><a href="../papers/2025Samba.pdf">[Paper]</a></font><br/>
+      Jiahao He, Keren Fu<sup><span>&#8224;</span></sup>, <b><u>Xiaohong Liu</u></b>, Qijun Zhao
+      <br/>
+      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 CVPR -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>86. [CVPR Spotlight]    Image Quality Assessment: From Human to Machine Preference</strong> 
+      <font color="blue"><a href="../papers/2025Machine.pdf">[Paper]</a></font><br/>
+      Chunyi Li<sup>*</sup>, Yuan Tia<sup>*</sup>, Xiaoyue Ling<sup>*</sup>,  Zicheng Zhang, Haodong Duan, Haoning Wu,  Ziheng Jia, <b><u>Xiaohong Liu</u></b>, Xiongkuo Min,
+  Guo Lu<sup><span>&#8224;</span></sup>, Weisi Lin, Guangtao Zhai<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 CVPR -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>85. [CVPR]    Learning Hazing to Dehazing: Towards Realistic Haze Generation for Real-World Image Dehazing</strong> 
+      <font color="blue"><a href="../papers/2025Dehazing.pdf">[Paper]</a></font><br/>
+      Ruiyi Wang,  Yushuo Zheng,  Zicheng Zhang,  Chunyi Li, Shuaicheng Liu,  Guangtao Zhai, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>
+      <br/>
+      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 CVPR -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>84. [CVPR]    UniSTD: Towards Unified Spatio-Temporal Prediction across Diverse Disciplines</strong> 
+      <font color="blue"><a href="../papers/2025UniSTD.pdf">[Paper]</a></font><br/>
+      Chen Tang,  Xinzhu Ma, Encheng Su, Xiufeng Song, <b><u>Xiaohong Liu</u></b>, Wei-Hong Li,   Lei Bai, Wanli Ouyang, Xiangyu Yue<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 CVPR -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>83. [CVPR]    MoEdit: On Learning Quantity Perception for Multi-object Image Editing</strong> 
+      <font color="blue"><a href="../papers/2025MoEdit.pdf">[Paper]</a></font><br/>
+      Yanfeng Li,  Kahou Chan, Yue Sun, Chantong Lam, Tong Tong, Zitong Yu,  Keren Fu, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Tao Tan<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 CVPR -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>82. [CVPR]    Q-Bench-Video: Benchmark the Video Quality Understanding of LMMs</strong> 
+      <font color="blue"><a href="../papers/2025Q-Bench-Video.pdf">[Paper]</a></font><br/>
+      Zicheng Zhang<sup>*</sup>,  Ziheng Jia<sup>*</sup>, Haoning Wu<sup><span>&#8224;</span></sup>, Chunyi Li, Zijian Chen, Yingjie Zhou,  Wei Sun, <b><u>Xiaohong Liu</u></b>, Xiongkuo Min
+      , Weisi Lin, Guangtao Zhai<sup>*</sup>
+      <br/>
+      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+
+
+<!-- 2025 IEEE TCSVT -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>81. [TCSVT]    Full-Reference and No-Reference Quality Assessment for Video Frame Interpolation</strong> 
+      <font color="blue"><a href="../papers/2025full_reference.pdf">[Paper]</a></font><br/>
+      Jinliang Han, Xiongkuo Min<sup><span>&#8224;</span></sup>,  Jun Jia, Yixuan Gao, <b><u>Xiaohong Liu</u></b>, Guangtao Zhai
+      <br/>
+      <i>IEEE Transactions on Circuits and Systems for Video Technology, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 ICLR -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>80. [ICLR]    A-Bench: Are LMMs Masters at Evaluating AI-Generated Images?</strong> 
+      <font color="blue"><a href="../papers/2025ICLR_ABench.pdf">[Paper]</a></font><br/>
+      Zicheng Zhang<sup>*</sup>, Haoning Wu<sup>*</sup>,  Chunyi Li, Yingjie Zhou, Wei Sun, Xiongkuo Min, Zijian Chen, <b><u>Xiaohong Liu</u></b>, Weisi Lin, Guangtao Zhai<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>International Conference on Learning Representations, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2025 AAAI -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>79. [AAAI]    Low-Light Image Enhancement via Generative Perceptual Priors</strong> 
+      <font color="blue"><a href="../papers/2025AAAI_Lowlight.pdf">[Paper]</a></font><br/>
+      Han Zhou<sup>*</sup>, Wei Dong<sup>*</sup>,  <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Yulun Zhang, Guangtao Zhai, Jun Chen
+      <br/>
+      <i>AAAI Conference on Artificial Intelligence, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2024 ICASSP -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>78. [ICASSP]    Contrastive Learning via Randomly Generated Deep Supervision</strong> 
+      <font color="blue"><a href="../papers/2024ICASSP_Con.pdf">[Paper]</a></font><br/>
+      Shibo Wang,  Zili Ma, Ka-Hou Chan, Yue Liu, Tong Tong, Qinquan Gao, Guangtao Zhai, <b><u>Xiaohong Liu</u></b>, Tao Tan<sup><span>&#8224;</span></sup>, 
+      <br/>
+      <i>International Conference on Acoustics, Speech and Signal Processing, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>77. [ICASSP]    3DGCQA: A Quality Assessment Database for 3D AI-Generated Contents</strong> 
+      <font color="blue"><a href="../papers/2024ICASSP_3D.pdf">[Paper]</a></font><br/>
+      Yingjie Zhou,  Zicheng Zhang, Farong Wen, Jun Jia, Yanwei Jiang, <b><u>Xiaohong Liu></u></b>, Xiongkuo Min, Guangtao Zhai
+      <br/>
+      <i>International Conference on Acoustics, Speech and Signal Processing, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>76. [ICASSP]   HazeCLIP: Towards Language Guided Real-World Image Dehazing</strong> 
+      <font color="blue"><a href="../papers/2024ICASSP_HazeCLIP.pdf">[Paper]</a></font><br/>
+      Ruiyi Wang<sup>*</sup>,  Wenhao Li<sup>*</sup>,  <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>,   Chunyi Li, Zicheng Zhang, Xiongkuo Min, Guangtao Zhai
+      <br/>
+      <i>International Conference on Acoustics, Speech and Signal Processing, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+---
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>75. [ICASSP]   Explore the Hallucination on Low-level Perception for MLLMs</strong> 
+      <font color="blue"><a href="../papers/2024ICASSP_MLLM.pdf">[Paper]</a></font><br/>
+      Yinan Sun,  Zicheng Zhang,  Haoning Wu,   <b><u>Xiaohong Liu</u></b>, Weisi Lin, Guangtao Zhai<sup><span>&#8224;</span></sup>, Xiongkuo Min<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>International Conference on Acoustics, Speech and Signal Processing, </i>2025. <br/>
+    </p>
+  </div>
+</div>
+
 2024
+---
+<!-- 2024 NIPS -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>74. [NIPS]   On Learning Multi-Modal Forgery Representation for Diffusion Generated Video Detection</strong> 
+      <font color="blue"><a href="../papers/2024NIPS_Detc.pdf">[Paper]</a></font><br/>
+      Xiufeng Song,  Xiao Guo,  Jiache Zhang,  Qirui Li, Lei Bai, Xiaoming Liu, Guangtao Zhai, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>
+      <br/>
+      <i>Neural Information Processing Systems, </i>2024. <br/>
+    </p>
+  </div>
+</div>
+---
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>73. [NIPS]   ECMamba: Consolidating Selective State Space Model with Retinex Guidance for Efficient Multiple Exposure Correction</strong> 
+      <font color="blue"><a href="../papers/2024NIPS_ECMamba.pdf">[Paper]</a></font><br/>
+      Wei Dong<sup>*</sup>,  Han Zhou<sup>*</sup>,  Yulun Zhang,  <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Jun Chen
+      <br/>
+      <i>Neural Information Processing Systems, </i>2024. <br/>
+    </p>
+  </div>
+</div>
+---
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>72. [NIPS]   Face2QR: A Unified Framework for Aesthetic, Face-Preserving, and Scannable QR Code Generation</strong> 
+      <font color="blue"><a href="../papers/2024NIPS_Face2QR.pdf">[Paper]</a></font><br/>
+      Xuehao Cui<sup>*</sup>,  Guangyang Wu<sup>*</sup>,  Zhenghao Gan,  Guangtao Zhai, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>
+      <br/>
+      <i>Neural Information Processing Systems, </i>2024. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>71. [NIPS]   V-PETL Bench: A Unified Visual Parameter-Efficient Transfer Learning Benchmark</strong> 
+      <font color="blue"><a href="../papers/2024NIPS_V-PETL.pdf">[Paper]</a></font><br/>
+      Yi Xin<sup>*</sup>,  Siqi Luo<sup>*</sup>,  Xuyang Liu,  Yuntao Du, Haodi Zhou,  Xinyu Cheng,  Christina Lee,  Junlong Du,  Haozhe Wang, Mingcai Chen,  Ting Liu, Guimin Hu, 
+       Zhongwei Wan, Rongchao Zhang, Aoxue Li, Mingyang Yi, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>
+      <br/>
+      <i>Neural Information Processing Systems, </i>2024. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2024 TIP -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>70. [TIP]   MISC: Ultra-low Bitrate Image Semantic Compression Driven by Large Multimodal Model</strong> 
+      <font color="blue"><a href="../papers/2024TIP.pdf">[Paper]</a></font><br/>
+      Chunyi Li, Guo Lu, Donghui Feng, Haoning Wu, Zicheng Zhang, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Guangtao Zhai<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>IEEE Transactions on Image Processing, </i>2024. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2024 IJCV -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>69. [IJCV]  Language-guided Hierarchical Fine-grained Image Forgery Detection and Localization</strong> 
+      <font color="blue"><a href="../papers/2024IJCV.pdf">[Paper]</a></font><br/>
+      Xiao Guo, <b><u>Xiaohong Liu<sup></sup></u></b>,  Iacopo Masi, Xiaoming Liu
+      <br/>
+      <i>International Journal of Computer Vision, </i>2024. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2024 CMIG -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>68. [CMIG]  Distance Guided Generative Adversarial Network for Explainable Medical Image Classifications</strong> 
+      <font color="blue"><a href="../papers/2024CMIG.pdf">[Paper]</a></font><br/>
+      Xiangyu Xiong,   Yue Sun, <b><u>Xiaohong Liu<sup></sup></u></b>,  Wei Ke, Chan-Tong Lam, Jiangang Chen,  Mingfeng Jiang, Mingwei Wang, Hui Xie, Tong Tong,  Qinquan Gao, Hao Chen, Tao Tan<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>Computerized Medical Imaging and Graphics, </i>2024. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2024 TCSVT -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>67. [TCSVT] No-Reference Image Quality Assessment: Obtain MOS From Image Quality Score Distribution</strong> 
+      <font color="blue"><a href="../papers/TCSVT_No-Reference.pdf">[Paper]</a></font><br/>
+      Yixuan Gao,   Xiongkuo Min<sup><span>&#8224;</span></sup>,   Yuqin Cao, <b><u>Xiaohong Liu<sup></sup></u></b>, Guangtao Zhai<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>IEEE Transactions on Circuits and Systems for Video Technology, </i>2024. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2024 Chest CT-IQA -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>66. [Displays]  Chest CT-IQA: A Multi-task Model for Chest CT Image Quality Assessment and Classification</strong> 
+      <font color="blue"><a href="../papers/2024Chest_CT-IQA.pdf">[Paper]</a></font><br/>
+      Siyi Xun,   Mingfeng Jiang,   Pu Huang,  Yucheng Zhu,  Yue Sun, Dengwang Li, Yan Luo, Huifen Zhang, Zhicheng Zhang, <b><u>Xiaohong Liu<sup></sup></u></b>, Mingxiang Wu<sup><span>&#8224;</span></sup>, Tao Tan
+      <br/>
+      <i>Displays, </i>2024. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2024 AIGCOIQA2024 -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>65. [ICIP]  AIGCOIQA2024: Perceptual Quality Assessment of AI Generated Omnidirectional Images</strong> 
+      <font color="blue"><a href="../papers/2024AIGCOIQA.pdf">[Paper]</a></font><br/>
+      Liu Yang,   Huiyu Duan,   Long Teng,  Yucheng Zhu,  <b><u>Xiaohong Liu<sup></sup></u></b>, Menghan Hu,  Xiongkuo Min,  Guangtao Zhai, Patrick Le Callet
+      <br/>
+      <i>IEEE International Conference on Image Processing (ICIP), </i>2024. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2024 THQA -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>64. [ICIP]  THQA: A Perceptual Quality Assessment Database for Talking Heads</strong> 
+      <font color="blue"><a href="../papers/2024THQA.pdf">[Paper]</a></font><br/>
+      Yingjie Zhou,   Zicheng Zhang,   Wei Sun,  <b><u>Xiaohong Liu<sup></sup></u></b>, Xiongkuo Min,  Zhihua Wang,  Xiaoping Zhang, Guangtao Zhai, 
+      <br/>
+      <i>IEEE International Conference on Image Processing (ICIP), </i>2024. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2024 Science China -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>63. [SCIENCE CHINA Information Sciences]  Situation-adaptive Neural Network for Fast Pre-computing Image Enhancement</strong> 
+      <font color="blue"><a href="../papers/2024ScienceChina.pdf">[Paper]</a></font><br/>
+      Xinyue Li,  Huiyu Duan,  Jia Wang,  <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Yitong Chen<sup><span>&#8224;</span></sup>,  Guangtao Zhai
+      <br/>
+      <i>SCIENCE CHINA Information Sciences, </i>2024. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2024 ACM TOMM -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>62. [ACM TOMM] Hidden Barcode in Sub-Images with Invisible Locating Marker</strong> 
+      <font color="blue"><a href="../papers/2024Hidden.pdf">[Paper]</a></font><br/>
+      Jun Jia,   Zhongpai Gao,  Yiwei Yang,  Wei Sun, Dandan Zhu, <b><u>Xiaohong Liu<sup></sup></u></b>,  Xiongkuo Min<sup><span>&#8224;</span></sup>, Guangtao Zhai<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM), </i>2024. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2024 3D -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>61. [ACMMM] Subjective and Objective Quality-of-Experience Assessment for 3D Talking Heads</strong> 
+      <font color="blue"><a href="../papers/2024_3D.pdf">[Paper]</a></font><br/>
+      Yingjie Zhou,   Wei Sun,  Xiongkuo Min<sup><span>&#8224;</span></sup>,  Zicheng Zhang, <b><u>Xiaohong Liu<sup></sup></u></b>,  Guangtao Zhai<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>The 32st ACM International Conference on Multimedia, </i>2024. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2024T2I Scorer -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>60. [ACMMM] T2I-Scorer: Quantitative Evaluationon Text-to-Image Generation via Fine-Tuned Large Multi-Modal Models</strong> 
+      <font color="blue"><a href="../papers/2024T2I-Scorer.pdf">[Paper]</a></font><br/>
+      Haoning Wu, Xiele Wu, Chunyi Li, Zicheng Zhang, Chaofeng Chen, <b><u>Xiaohong Liu<sup></sup></u></b>, Guangtao Zhai, Weisi Lin
+      <br/>
+      <i>The 32st ACM International Conference on Multimedia, </i>2024. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2024T2VQA -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>59. [ACMMM Oral] Subjective-Aligned Dataset and Metric for Text-to-Video Quality Assessment</strong> 
+      <font color="blue"><a href="../papers/24T2VQA.pdf">[Paper]</a></font><br/>
+      Tengchuan Kou,  <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>,  Zicheng Zhang,  Chunyi Li, Haoning Wu,  Xiongkuo Min,   Guangtao Zhai, Ning Liu<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>The 32st ACM International Conference on Multimedia, </i>2024. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2024LMM-PCQA -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>58. [ACMMM Oral] LMM-PCQA: Assisting Point Cloud Quality Assessment with LMM</strong> 
+      <font color="blue"><a href="../papers/2024LMM-PCQA.pdf">[Paper]</a></font><br/>
+      Zicheng Zhang,  Haoning Wu,  Yingjie Zhou,  Chunyi Li,  Wei Sun,  Chaofeng Chen,   Xiongkuo Min<sup><span>&#8224;</span></sup>, <b><u>Xiaohong Liu<sup></sup></u></b>,  Weisi Lin, 
+      Guangtao Zhai<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>The 32st ACM International Conference on Multimedia, </i>2024. <br/>
+    </p>
+  </div>
+</div>
+---
+<!-- 2024G-refine -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>57. [ACMMM Oral] G-Refine: A General Quality Refiner for Text-to-Image Generation</strong> 
+      <font color="blue"><a href="../papers/2024G_Refine.pdf">[Paper]</a></font><br/>
+      Chunyi Li,  Haoning Wu, Hongkun Hao, Zicheng Zhang,  Tengchuan Kou,  Chaofeng Chen,  Lei Bai, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>,  Weisi Lin, 
+      Guangtao Zhai<sup><span>&#8224;</span></sup>
+      <br/>
+      <i>The 32st ACM International Conference on Multimedia, </i>2024. <br/>
+    </p>
+  </div>
+</div>
 ---
 <!-- 2024glare -->
 <div class="row">
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>57. [ECCV] GLARE: Low Light Image Enhancement via Generative Latent Feature based Codebook Retrieval</strong> 
+      <strong>56. [ECCV] GLARE: Low Light Image Enhancement via Generative Latent Feature based Codebook Retrieval</strong> 
       <font color="blue"><a href="../papers/2024glare.pdf">[Paper]</a></font><br/>
       Han Zhou<sup>*</sup>, Wei Dong<sup>*</sup>, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Shuaicheng Liu, Xiongkuo Min, Guangtao Zhai, Jun Chen<sup><span>&#8224;</span></sup>
       <br/>
@@ -22,13 +714,13 @@ author_profile: true
     </p>
   </div>
 </div>
-
+---
 <!-- 2024lightendiffusion -->
 <div class="row">
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>56. [ECCV] LightenDiffusion: Unsupervised Low-Light Image Enhancement with Latent-Retinex Diffusion Models</strong> 
+      <strong>55. [ECCV] LightenDiffusion: Unsupervised Low-Light Image Enhancement with Latent-Retinex Diffusion Models</strong> 
       <font color="blue"><a href="../papers/2024lightendiffusion.pdf">[Paper]</a></font><br/>
       Hai Jiang, Ao Luo, <b><u>Xiaohong Liu</u></b>, Songchen Han, Shuaicheng Liu<sup><span>&#8224;</span></sup>
       <br/>
@@ -36,13 +728,13 @@ author_profile: true
     </p>
   </div>
 </div>
-
+---
 <!-- 2024openended -->
 <div class="row">
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>55. [ECCV] Towards Open-ended Visual Quality Comparison</strong> 
+      <strong>54. [ECCV Oral] Towards Open-ended Visual Quality Comparison</strong> 
       <font color="blue"><a href="../papers/2024openended.pdf">[Paper]</a></font><br/>
       Haoning Wu<sup>*</sup>, Hanwei Zhu<sup>*</sup>, Zicheng Zhang<sup>*</sup>, Erli Zhang, Chaofeng Chen, Liang Liao, Chunyi Li, Annan Wang, Wenxiu Sun, Qiong Yan, <b><u>Xiaohong Liu</u></b>, Guangtao Zhai, Shiqi Wang, Weisi Lin
       <br/>
@@ -51,20 +743,7 @@ author_profile: true
   </div>
 </div>
 
-<!-- 2024PAPS-OVQA -->
-<div class="row">
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>54. [ISCAS] PAPS-OVQA: Projection-Aware Patch Sampling for Omnidirectional Video Quality Assessment</strong> 
-      <font color="blue"><a href="../papers/2024PAPS-OVQA.pdf">[Paper]</a></font><br/>
-      Chunyi Li, Zicheng Zhang, Haoning Wu, Kaiwei Zhang, Lei Bai, <b><u>Xiaohong Liu</u></b>, Guangtao Zhai, Weisi Lin
-      <br/>
-      <i>International Symposium on Circuits and Systems (ISCAS), </i>2024. <br/>
-    </p>
-  </div>
-</div>
-
+---
 <!-- 2024PrefIQA -->
 <div class="row">
   <div class="column middle">&nbsp;</div>
@@ -78,7 +757,7 @@ author_profile: true
     </p>
   </div>
 </div>
-
+---
 <!-- 2024Calculating -->
 <div class="row">
   <div class="column middle">&nbsp;</div>
@@ -92,7 +771,7 @@ author_profile: true
     </p>
   </div>
 </div>
-
+---
 <!-- 2024diffstega -->
 <div class="row">
   <div class="column middle">&nbsp;</div>
@@ -104,7 +783,7 @@ author_profile: true
     </p>
   </div>
 </div>
-
+---
 <!-- 2024qrefine -->
 <div class="row">
   <div class="column middle">&nbsp;</div>
@@ -267,7 +946,7 @@ author_profile: true
   <div class="column right">
     <p>
       <strong>38. [CVPR] Perception-Oriented Video Frame Interpolation via Asymmetric Blending</strong> <font color="blue"><a href="../papers/2024perception.pdf">[Paper]</a></font><br/>
-      Guangyang Wu, Xin Tao, Changlin Li, Wwenyi Wang, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Qingqing Zheng<sup><span>&#8224;</span></sup><br/>
+      Guangyang Wu, Xin Tao, Changlin Li, Wenyi Wang, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Qingqing Zheng<sup><span>&#8224;</span></sup><br/>
       <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), </i>2024. <br/>
     </p>
   </div>
@@ -489,7 +1168,7 @@ author_profile: true
   <div class="column right">
     <p>
       <strong>21. [IFTC] Resolution-Agnostic Neural Compression for High-Fidelity Portrait Video Conferencing via Implicit Radiance Fields</strong> <font color="blue"><a href="../papers/2023resolution.pdf">[Paper]</a></font><br/>
-      Yifei Li, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Yicong Peng, Guangtao Zhai, Jun Zhou<sup><span>&#8224;</span></sup>
+      Yifei Li, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Yicong Peng, Guangtao Zhai, Jun Zhou<sup><span>&#8224;</span></sup><br/>
       <i>The 20th International Forum of Digital Multimedia Communication, </i>2023. <br/>
     </p>
   </div>
@@ -502,7 +1181,7 @@ author_profile: true
   <div class="column right">
     <p>
       <strong>20. [AIS] Is There a Difference between Paper and Electronic Chinese Signatures</strong> <font color="blue"><a href="../papers/2023isthere.pdf">[Paper]</a></font><br/>
-      Jifeng Luo, Yunzhu Pu, Jieyang Yin, <b><u>Xiaohong Liu</u></b>, Tao Tan, Yudong Zhang, Menghan Hu<sup><span>&#8224;</span></sup>
+      Jifeng Luo, Yunzhu Pu, Jieyang Yin, <b><u>Xiaohong Liu</u></b>, Tao Tan, Yudong Zhang, Menghan Hu<sup><span>&#8224;</span></sup><br/>
       <i>Advanced Intelligent Systems, </i>2023. <br/>
     </p>
   </div>
@@ -700,7 +1379,7 @@ author_profile: true
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>5. [ICCV] GridDehazeNet: Attention based Multi-Scale Network for Image Dehazing</strong> <font color="blue"><a href="papers/2019griddehazenet.pdf">[Paper]</a></font><br/>
+      <strong>5. [ICCV] GridDehazeNet: Attention based Multi-Scale Network for Image Dehazing</strong> <font color="blue"><a href="../papers/2019griddehazenet.pdf">[Paper]</a></font><br/>
       <b><u>Xiaohong Liu<sup>*</sup></u></b>, Yongrui Ma<sup>*</sup>, Zhihao Shi, and Jun Chen<br/>
       <i>IEEE/CVF International Conference on Computer Vision (ICCV), </i>2019. <br/>
     </p>

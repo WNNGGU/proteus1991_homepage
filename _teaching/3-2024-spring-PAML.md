@@ -6,7 +6,7 @@ type: "Undergraduate course"
 permalink: /teaching/2023-spring-FL6001
 venue: "Zhiyuan College, SJTU"
 date: 2023-02-13
-time: "Spring 2024"
+time: "Spring 2024, Spring 2025"
 location: "Shanghai, China"
 ---
 
